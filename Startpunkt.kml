@@ -1,0 +1,72 @@
+﻿<kml
+	xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+	<Document>
+		<name>Drawing</name>
+		<Placemark id="marker_1700732591993">
+			<ExtendedData>
+				<Data name="htmlpopup">
+					<value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/G0JnT2-WSM6v51q-DN0Djg#marker_1700732591993" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Drawing &amp;nbsp;&lt;/span&gt;(Treffpunkt)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier ist der Treffpunkt, bei dem einem Staffettenlauf gemacht wird&lt;/div&gt;&lt;/div&gt;</value>
+				</Data>
+				<Data name="layerId">
+					<value>KML||https://public.geo.admin.ch/api/kml/files/G0JnT2-WSM6v51q-DN0Djg</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<name>Treffpunkt</name>
+			<description>Lolllll wurde geänderet ist der Treffpunkt, bei dem einem Staffettenlauf gemacht wird</description>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://api3.geo.admin.ch/color/255,255,0/star-48@2x.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>#556B2F</color>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<tessellate>1</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.705329064477208,47.35222344464302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="marker_1700732710964">
+			<ExtendedData>
+				<Data name="htmlpopup">
+					<value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/G0JnT2-WSM6v51q-DN0Djg#marker_1700732710964" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Drawing &amp;nbsp;&lt;/span&gt;(Endroute)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;Hier ist die Endroute von dem Staffettenlauf&lt;/div&gt;&lt;/div&gt;</value>
+				</Data>
+				<Data name="layerId">
+					<value>KML||https://public.geo.admin.ch/api/kml/files/G0JnT2-WSM6v51q-DN0Djg</value>
+				</Data>
+				<Data name="type">
+					<value>marker</value>
+				</Data>
+			</ExtendedData>
+			<name>Endroute</name>
+			<description>Hier ist die Endroute von dem Staffettenlauf</description>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://api3.geo.admin.ch/color/255,0,0/circle-24@2x.png</href>
+						<gx:w>48</gx:w>
+						<gx:h>48</gx:h>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>fd556B2F</color>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<tessellate>10</tessellate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.70772479352494,47.35449964167614</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
